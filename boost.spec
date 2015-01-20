@@ -123,7 +123,7 @@ Patch53: boost-1.54.0-pool-max_chunks_shadow.patch
 # https://bugzilla.redhat.com/show_bug.cgi?id=1102667
 Patch61: boost-1.57.0-python-libpython_dep.patch
 Patch62: boost-1.57.0-python-abi_letters.patch
-Patch63: boost-1.57.0-python-test-PyImport_AppendInittab.patch
+Patch63: boost-1.55.0-python-test-PyImport_AppendInittab.patch
 
 %bcond_with tests
 %bcond_with docs_generated
